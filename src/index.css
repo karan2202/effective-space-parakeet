@@ -6,8 +6,25 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 5;
+  width: 100%;
+}
+
+.logo {
+  width: 2px; 
+  height:px; 
+}
+
+.navbar .component {
+  font-size: 10px; 
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+    monospace
+  }
+
